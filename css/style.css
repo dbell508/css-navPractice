@@ -45,7 +45,8 @@ body {
 	height: 6px;
 	margin: 0 5px;
 	padding: 0 0 2px 5px;
-}
+	color: #fff;
+}	
 
 .dropdown:hover,
 .dropBtn:hover,
